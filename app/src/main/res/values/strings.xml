@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="recipe_placeholder">This is placeholder for image of a recipe</string>
+    <string name="recipe">Recipe</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="ingredients">Ingredients</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="load">Loading...</string>
+    <string name="checknet">Check your internet connectivity!</string>
+    <string name="ok">Ok</string>
+    <string name="dot">.</string>
+    <string name="vurl">videourl</string>
+    <string name="vdescription">videodescription</string>
+    <string name="vdesc">vid_desc</string>
+    <string name="list">list</string>
+    <string name="positionstep">position_step</string>
+    <string name="q">Q</string>
+    <string name="updatewidget">android.appwidget.action.APPWIDGET_UPDATE</string>
+    <string name="Description">Description</string>
+    <string name="firststep">This is the first step.You cannot go back</string>
+    <string name="laststep">This is the last step.There are no more steps left!</string>
+    <string name="in">Ingredient: </string>
+    <string name="quant">Quantity: </string>
+    <string name="measure">Measure: </string>
+    <string name="position">position</string>
+    <string name="eplayer">exoplayer</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="pos">pos</string>
+    <string name="steplist">stepList</string>
+    <string name="ready">ready</string>
+    <string name="cpos">c_pos</string>
+    <string name="ppos">p_pos</string>
+    <string name="bakingappwidget">baking_app_agent</string>
+    <string name="vd">vdescription</string>
+</resources>

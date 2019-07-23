@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="constraint">8dp</dimen>
+    <dimen name="image_size">150dp</dimen>
+    <dimen name="left_m_recipe_text">20dp</dimen>
+    <dimen name="top_m_recipe_text">50dp</dimen>
+    <dimen name="recipetextsize">25sp</dimen>
+    <dimen name="card_margin">10dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="item_width">200dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="card_margin2">5dp</dimen>
+    <dimen name="width_tablet_list">220dp</dimen>
+    <dimen name="card_corner_radius_3">3dp</dimen>
+    <dimen name="ingredient_text_size">20sp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="widgettextsize">12sp</dimen>
+    <dimen name="playerheight">400dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="widget_width">150dp</dimen>
+    <dimen name="widget_height">210dp</dimen>
+</resources>
